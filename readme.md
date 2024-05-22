@@ -3,4 +3,5 @@
 ### CREAR TIENDA ONLINE
 
 La estructura del ejercicio constará de una celda inicial con el codigo para crear la clase TiendaOnline() y 
-a continuacion ire abriendo sucesivas celdas para crear instancias de clase y así probar los diversos métodos. 
+a continuacion ire abriendo sucesivas celdas para primero crear una instancias de clase (un objeto) y así probar los diversos métodos sobre dicho objeto. 
+Ire poniendo comentarios en el codigo para explicarlo 
